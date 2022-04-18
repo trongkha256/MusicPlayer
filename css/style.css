@@ -37,6 +37,8 @@ html {
 }
 
 .dashboard {
+    background-image: url(../img/pngtree-simple-colorful-wavy-line-background-design-concept-image_391441.jpg);
+    background-repeat: no-repeat;
     padding: 16px 16px 14px;
     background-color: #fff;
     position: fixed;
